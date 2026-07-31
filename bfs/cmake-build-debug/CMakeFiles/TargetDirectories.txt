@@ -1,0 +1,3 @@
+C:/Programming/BIE-AG1/bfs/cmake-build-debug/CMakeFiles/bfs.dir
+C:/Programming/BIE-AG1/bfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/BIE-AG1/bfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

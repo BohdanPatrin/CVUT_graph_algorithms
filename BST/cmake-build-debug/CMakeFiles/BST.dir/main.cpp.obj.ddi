@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\BST.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Programming\\BIE-AG1\\BST\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\BST.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

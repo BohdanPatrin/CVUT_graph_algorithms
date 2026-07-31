@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\subsequence.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Programming\\BIE-AG1\\subsequence\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\subsequence.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

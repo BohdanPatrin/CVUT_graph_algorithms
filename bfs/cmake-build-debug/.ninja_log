@@ -1,0 +1,13 @@
+# ninja log v6
+39	693	7817304800206645	CMakeFiles/bfs.dir/main.cpp.obj.ddi	ccc6f8f749f8353
+699	743	7817304807207605	CMakeFiles/bfs.dir/CXX.dd	43c434a19cdf7985
+699	743	7817304807207605	C:/Programming/BIE-AG1/bfs/cmake-build-debug/CMakeFiles/bfs.dir/CXXModules.json	43c434a19cdf7985
+699	743	7817304807207605	CMakeFiles/bfs.dir/main.cpp.obj.modmap	43c434a19cdf7985
+751	1979	7817304807327580	CMakeFiles/bfs.dir/main.cpp.obj	14e8fe659b30dd28
+1979	2307	7817304819606473	bfs.exe	c91e806a372bdcbe
+6	617	7817304996975922	CMakeFiles/bfs.dir/main.cpp.obj.ddi	ccc6f8f749f8353
+620	651	7817305003116403	CMakeFiles/bfs.dir/CXX.dd	43c434a19cdf7985
+620	651	7817305003116403	C:/Programming/BIE-AG1/bfs/cmake-build-debug/CMakeFiles/bfs.dir/CXXModules.json	43c434a19cdf7985
+620	651	7817305003116403	CMakeFiles/bfs.dir/main.cpp.obj.modmap	43c434a19cdf7985
+652	1558	7817305003436394	CMakeFiles/bfs.dir/main.cpp.obj	14e8fe659b30dd28
+1558	1707	7817305012497052	bfs.exe	c91e806a372bdcbe

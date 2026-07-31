@@ -1,0 +1,7 @@
+# ninja log v6
+65	1202	7878466863751838	CMakeFiles/hw3.dir/main.cpp.obj.ddi	23940930f12c67b
+1210	1307	7878466876102688	CMakeFiles/hw3.dir/CXX.dd	92afa393617ae557
+1210	1307	7878466876102688	C:/Programming/BIE-AG1/hw3/cmake-build-debug/CMakeFiles/hw3.dir/CXXModules.json	92afa393617ae557
+1210	1307	7878466876102688	CMakeFiles/hw3.dir/main.cpp.obj.modmap	92afa393617ae557
+1319	4000	7878466876292670	CMakeFiles/hw3.dir/main.cpp.obj	29d09d42302b4192
+4000	4547	7878466903101023	hw3.exe	95864421469833e9

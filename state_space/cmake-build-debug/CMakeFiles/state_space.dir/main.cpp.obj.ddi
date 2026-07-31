@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\state_space.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Programming\\BIE-AG1\\state_space\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\state_space.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

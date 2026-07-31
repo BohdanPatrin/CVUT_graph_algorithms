@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\top_sort.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Programming\\BIE-AG1\\top_sort\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\top_sort.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

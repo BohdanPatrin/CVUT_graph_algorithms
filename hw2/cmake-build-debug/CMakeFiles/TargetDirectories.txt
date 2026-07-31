@@ -1,0 +1,3 @@
+C:/Programming/BIE-AG1/hw2/cmake-build-debug/CMakeFiles/hw2.dir
+C:/Programming/BIE-AG1/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/BIE-AG1/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
