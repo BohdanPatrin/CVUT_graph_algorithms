@@ -1,3 +1,0 @@
-C:/Programming/BIE-AG1/top_sort/cmake-build-debug/CMakeFiles/top_sort.dir
-C:/Programming/BIE-AG1/top_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programming/BIE-AG1/top_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
