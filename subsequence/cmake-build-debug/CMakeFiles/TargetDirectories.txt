@@ -1,3 +1,0 @@
-C:/Programming/BIE-AG1/subsequence/cmake-build-debug/CMakeFiles/subsequence.dir
-C:/Programming/BIE-AG1/subsequence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programming/BIE-AG1/subsequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
