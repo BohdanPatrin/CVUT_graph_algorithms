@@ -1,7 +1,0 @@
-# ninja log v6
-5	925	7888610079678236	CMakeFiles/knapsack.dir/main.cpp.obj.ddi	8cc1b6a3de9f7c47
-935	1081	7888610090373153	CMakeFiles/knapsack.dir/CXX.dd	4e1c75dbc06c677
-935	1081	7888610090373153	C:/Programming/BIE-AG1/knapsack/cmake-build-debug/CMakeFiles/knapsack.dir/CXXModules.json	4e1c75dbc06c677
-935	1081	7888610090373153	CMakeFiles/knapsack.dir/main.cpp.obj.modmap	4e1c75dbc06c677
-1095	3201	7888610090573121	CMakeFiles/knapsack.dir/main.cpp.obj	6ceebeda034d34ae
-3202	3806	7888610111636421	knapsack.exe	77a5faee7c3cc09c

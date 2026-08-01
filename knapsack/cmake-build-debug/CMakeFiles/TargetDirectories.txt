@@ -1,3 +1,0 @@
-C:/Programming/BIE-AG1/knapsack/cmake-build-debug/CMakeFiles/knapsack.dir
-C:/Programming/BIE-AG1/knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programming/BIE-AG1/knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
