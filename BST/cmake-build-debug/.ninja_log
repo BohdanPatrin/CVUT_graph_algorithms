@@ -1,7 +1,0 @@
-# ninja log v6
-3	613	7888584237964689	CMakeFiles/BST.dir/main.cpp.obj.ddi	6896d4a3efec6b9
-616	659	7888584244483063	CMakeFiles/BST.dir/CXX.dd	db4a5a68866eb358
-616	659	7888584244483063	C:/Programming/BIE-AG1/BST/cmake-build-debug/CMakeFiles/BST.dir/CXXModules.json	db4a5a68866eb358
-616	659	7888584244483063	CMakeFiles/BST.dir/main.cpp.obj.modmap	db4a5a68866eb358
-666	1938	7888584244593101	CMakeFiles/BST.dir/main.cpp.obj	90c6e8bdd15ec23a
-1938	2200	7888584257312618	BST.exe	ed3ba2686a09506c
