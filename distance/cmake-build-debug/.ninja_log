@@ -1,7 +1,0 @@
-# ninja log v6
-5	936	7888605617970792	CMakeFiles/distance.dir/main.cpp.obj.ddi	8bf6d145352d9964
-944	1101	7888605628857862	CMakeFiles/distance.dir/CXX.dd	4ddf2e0f05f26232
-944	1101	7888605628857862	C:/Programming/BIE-AG1/distance/cmake-build-debug/CMakeFiles/distance.dir/CXXModules.json	4ddf2e0f05f26232
-944	1101	7888605628857862	CMakeFiles/distance.dir/main.cpp.obj.modmap	4ddf2e0f05f26232
-1113	3588	7888605629057872	CMakeFiles/distance.dir/main.cpp.obj	4a29c8ea95386294
-3588	4209	7888605653805078	distance.exe	1868eae7b1d50124
