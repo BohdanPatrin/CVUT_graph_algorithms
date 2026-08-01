@@ -2,7 +2,7 @@ Advanced C++ Algorithms & Data Structures
 
 This repository contains highly optimized C++ solutions to complex algorithmic problems, developed to run under strict memory and execution time limits (evaluated via the Progtest platform). 
 
-Each project demonstrates the application of advanced data structures, graph theory, and dynamic programming to solve multi-layered problems efficiently.
+Each project demonstrates the application of advanced data structures, graph theory, dynamic programming and network flow to solve multi-layered problems efficiently.
 
 ## Projects
 
@@ -14,6 +14,10 @@ Each project demonstrates the application of advanced data structures, graph the
     *   **Concepts:** Custom Balanced Binary Search Tree, Lazy Propagation, Range Minimum Queries (RMQ).
     *   **Description:** A highly efficient data structure built from scratch to process dynamic range updates and enforce strict negative-value constraints across grouped entities in logarithmic time.
 
+*   **[Knapsack & Graph Components (Vault Heist)](./knapsack-and-graphs)**
+    *   **Concepts:** Connected Components (BFS), Subset Sum (DP), 0/1 Knapsack (DP).
+    *   **Description:** A multi-stage algorithm that isolates graph components to solve a partition problem, followed by a time-constrained 0/1 Knapsack optimization to maximize extracted value.
+ 
 *   **[Knapsack & Graph Components (Vault Heist)](./knapsack-and-graphs)**
     *   **Concepts:** Connected Components (BFS), Subset Sum (DP), 0/1 Knapsack (DP).
     *   **Description:** A multi-stage algorithm that isolates graph components to solve a partition problem, followed by a time-constrained 0/1 Knapsack optimization to maximize extracted value.
