@@ -1,3 +1,0 @@
-C:/Programming/BIE-AG1/binary_heap/cmake-build-debug/CMakeFiles/binary_heap.dir
-C:/Programming/BIE-AG1/binary_heap/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programming/BIE-AG1/binary_heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
