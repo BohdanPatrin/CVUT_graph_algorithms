@@ -1,3 +1,0 @@
-C:/Programming/BIE-AG1/AVL2/cmake-build-debug/CMakeFiles/AVL2.dir
-C:/Programming/BIE-AG1/AVL2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programming/BIE-AG1/AVL2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
