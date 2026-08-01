@@ -36,7 +36,6 @@ struct StateHash {
 ```
 
 ## System Architecture
-## System Architecture
 1.  **Environment Graph:** Rooms are represented as nodes connected by bidirectional edges (corridors), populated with optional enemies and loot.
 2.  **State Evaluation:** At each node, the BFS generates adjacent states by:
     *   Evaluating adjacent rooms (Move).
